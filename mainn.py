@@ -1,6 +1,6 @@
 import tkinter as tk
 import customtkinter as ctk
-from pytube import YouTube
+from pytube import YouTube as yt
 
 
 
